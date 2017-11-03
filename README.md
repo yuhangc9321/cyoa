@@ -1,7 +1,7 @@
 purpose
 
-click here to begin
+click [here](home.md to begin
 
 goto google drawing
 
-made by 
+made by
