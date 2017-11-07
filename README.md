@@ -8,4 +8,4 @@ Click here to go to the [google drawing](https://docs.google.com/drawings/d/1y8H
 
 This project was made by [Yu Hang Chen](https://github.com/yuhangc9321) and [Ahmad Rabah](https://github.com/ahmadr9279)
 
-[!alt text](https://cdn.pixabay.com/photo/2016/11/05/08/23/matrix-1799661_640.jpg)
+![alt text](https://cdn.pixabay.com/photo/2016/11/05/08/23/matrix-1799661_640.jpg)
