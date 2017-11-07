@@ -1,5 +1,4 @@
-The computer says that it is the apocalypse and you were chosen to be saved. It says that you are in an underground bunker now.
+The computer ignores you and turns off. Later on, your vision becomes a red blur and you die
 
-[You agree and sit down](../notice-glass/notice-glass.md)
+[Start over again?](../../home.md)
 
-[You ask to leave](../explanation/explanation.md) 
